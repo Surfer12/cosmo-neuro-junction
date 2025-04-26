@@ -1,0 +1,28 @@
+Duplicate Removal Log - Sat Apr 26 03:47:38 PDT 2025
+=====================================
+Creating backup of /Users/ryandavidoates/bauman-oates/ at /Users/ryandavidoates/bauman-oates_backup_20250426_034738
+Checking and removing duplicates...
+Removed duplicate: /Users/ryandavidoates/bauman-oates/component-analysis.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/narrative/bauman_oates_component_analysis.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/project-file-map.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/narrative/bauman_oates_project_file_map.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/project-index.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/narrative/bauman_oates_project_index.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/project-organization.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/narrative/bauman_oates_project_organization.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/config/cursor-version-bauman-oates.ini (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/context/bauman_oates_cursor_version_config.ini)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/config/dulicate.ini (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/context/bauman_oates_duplicate_config.ini)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/config/junction.ini (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/context/bauman_oates_junction_config.ini)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/docs/gemini.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/narrative/bauman_oates_gemini_narrative.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/docs/goose.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/narrative/bauman_oates_goose_narrative.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/docs/Project-Analysis-Documentation.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/narrative/bauman_oates_project_analysis_documentation.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/docs/Project-Goals.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/narrative/bauman_oates_project_goals.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/docs/Project-Timeline.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/narrative/bauman_oates_project_timeline.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/docs/Stepwise-Process.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/narrative/bauman_oates_stepwise_process.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/shark-tracker/shark-tracker-calendar.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/tools/shark-tracker/bauman_oates_shark_tracker_calendar.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/shark-tracker/shark-tracker-sheet.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/tools/shark-tracker/bauman_oates_shark_tracker_sheet.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/shark-tracker/Create a project description for a shark.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/tools/shark-tracker/bauman_oates_shark_tracker_description.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/shark-tracker/shark-tracker-timeline.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/tools/shark-tracker/bauman_oates_shark_tracker_timeline.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/therapeutic-model/Emergent Frameworks in Cosmic Patterning.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/tools/therapeutic-model/bauman_oates_emergent_frameworks_cosmic_patterning.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/therapeutic-model/Collaborative Junction Manifold Fractal Pathways for Implicate Integration.ini (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/tools/therapeutic-model/bauman_oates_collaborative_junction_manifold.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/therapeutic-model/# Ryan Oates Persona in Julia Structs.jl (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/tools/therapeutic-model/bauman_oates_ryan_oates_persona.jl)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/therapeutic-model/goose-grok-full-revise-mem-proj.md (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/tools/therapeutic-model/bauman_oates_goose_grok_memory_revision.md)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/therapeutic-model/therapeutic_model_v3.jl (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/tools/therapeutic-model/bauman_oates_therapeutic_model_v3.jl)
+Removed duplicate: /Users/ryandavidoates/bauman-oates/proposal-for-merg.ini (matches /Users/ryandavidoates/cosmo-neuro-junction/junction_layers/bauman-oates/narrative/bauman_oates_proposal_for_merge.md)
+Duplicate removal process completed. Check the log file at /Users/ryandavidoates/cosmo-neuro-junction/remove_duplicates_log_20250426_034738.txt for details.
