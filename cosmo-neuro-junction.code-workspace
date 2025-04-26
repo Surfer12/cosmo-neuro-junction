@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "bauman-oates",
+			"path": "../bauman-oates"
+		},
+		{
+			"name": "scripts",
+			"path": "../scripts"
+		},
+		{
+			"name": "grok-mem-1",
+			"path": "../grok-mem-1"
+		},
+		{
+			"name": "persona-julia-windows",
+			"path": "../persona-julia-windows"
+		},
+		{
+			"name": "complexity-analysis-system",
+			"path": "../complexity-analysis-system"
+		},
+		{
+			"name": "Nova-act-revisit",
+			"path": "../Nova-act-revisit"
+		},
+		{
+			"name": "ClaudeMetaResearch",
+			"path": "../ClaudeMetaResearch"
+		},
+		{
+			"name": "ariaproj",
+			"path": "../ariaproj"
+		}
+	],
+	"settings": {}
+}
